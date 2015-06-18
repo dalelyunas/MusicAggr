@@ -1,2 +1,6 @@
-*.xml
 .cache-musich0lder
+LastFm.pyc 
+SpotifyHandler.pyc
+*.xml
+.idea/
+
