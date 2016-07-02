@@ -1,4 +1,4 @@
-# MusicAggregator
+# MusicAggr
 Takes the last X songs a group on LastFm has listened to, gets their albums, and makes a Spotify playlist. 
 Removes one album for each album added after the X mark
 
